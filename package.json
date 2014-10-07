@@ -1,0 +1,11 @@
+{
+	"name": "typy",
+	"description": "Typing",
+	"version": "0.0.0",
+	"author": "CoderPuppy",
+
+	"dependencies": {
+		"es6-set": "^0.1.0",
+		"es6-map": "^0.1.0"
+	}
+}
